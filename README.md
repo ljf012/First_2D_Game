@@ -1,5 +1,5 @@
 # First_2D_Game
- 简单的2D游戏
+ 基于unity的简单的2D游戏
  需要同步的文件夹只有Assets和ProjectSetting。
  
  Assets内的文件
